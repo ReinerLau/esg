@@ -1,5 +1,5 @@
 const config = {
-  title: 'H5 - Vitesse',
+  title: 'ESG',
   description: 'A H5 Template(Vite + Vue) inspired by Vitesse.',
   mainColor: '#00aba9',
 
